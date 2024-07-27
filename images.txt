@@ -7,3 +7,4 @@ ghcr.io/anduin2017/how-to-cook:latest
 mongo
 mongo-express
 quay.io/minio/minio
+frooodle/s-pdf:latest
