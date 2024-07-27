@@ -8,3 +8,4 @@ mongo
 mongo-express
 quay.io/minio/minio
 frooodle/s-pdf:latest
+frooodle/s-pdf:latest-ultra-lite
