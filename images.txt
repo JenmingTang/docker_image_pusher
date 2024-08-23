@@ -9,3 +9,6 @@ mongo-express
 quay.io/minio/minio
 frooodle/s-pdf:latest
 frooodle/s-pdf:latest-ultra-lite
+ghcr.io/teableio/teable:latest
+postgres:15.4
+ghcr.io/teableio/teable-db-migrate:latest
