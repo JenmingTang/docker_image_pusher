@@ -15,3 +15,7 @@ ghcr.io/teableio/teable-db-migrate:latest
 elestio/pgadmin
 amazoncorretto:17-alpine3.17
 nginx
+#开源调查问卷
+#https://formbricks.com/docs/self-hosting/docker
+pgvector/pgvector:pg17
+ghcr.io/formbricks/formbricks:latest
