@@ -19,3 +19,4 @@ nginx
 #https://formbricks.com/docs/self-hosting/docker
 pgvector/pgvector:pg17
 ghcr.io/formbricks/formbricks:latest
+node
