@@ -20,3 +20,4 @@ nginx
 pgvector/pgvector:pg17
 ghcr.io/formbricks/formbricks:latest
 node
+redis
