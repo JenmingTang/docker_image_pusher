@@ -22,3 +22,4 @@ ghcr.io/formbricks/formbricks:latest
 node
 redis
 canal/canal-server:v1.1.0
+tooljet/try:EE-LTS-latest
