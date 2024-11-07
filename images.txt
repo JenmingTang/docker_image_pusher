@@ -21,3 +21,4 @@ pgvector/pgvector:pg17
 ghcr.io/formbricks/formbricks:latest
 node
 redis
+canal/canal-server:v1.1.0
